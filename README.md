@@ -1,4 +1,4 @@
-# APIREST para Gestión de Estudiantes y Materias
+# Gestión de Estudiantes y Materias
 
 Este proyecto es una APIREST desarrollada con Spring Boot para gestionar un sistema de estudiantes y materias, con funcionalidades de alta, baja, modificación e inscripción de alumnos y materias, diseñado para ser utilizado con un dashboard desarrollado en React.js y Next.js.
 
